@@ -28,7 +28,7 @@ u# Retro tv（基于 Retro Music Player 二次开发）
 2. 拷贝到电视或电视盒子上
 3. 允许“未知来源”应用安装
 4. 在电视上直接安装并打开应用
-5. (可参考教程https://zhuanlan.zhihu.com/p/1974526068611371612)
+5.  [参考教程]（https://zhuanlan.zhihu.com/p/1974526068611371612)
 
 ### 源码编译
 
