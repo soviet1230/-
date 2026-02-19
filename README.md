@@ -1,4 +1,4 @@
-u# Retro tv（基于 Retro Music Player 二次开发）
+u# Retro TV（基于 Retro Music Player 二次开发）
 
 本项目是一款专为智能电视（Android TV、电视盒子等大屏设备）打造的本地音乐播放器，基于开源项目 [Retro Music Player](https://github.com/h4h13/RetroMusicPlayer) 进行重新开发和大屏适配。
 
